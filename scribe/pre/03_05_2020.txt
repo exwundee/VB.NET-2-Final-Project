@@ -1,0 +1,29 @@
+
+ _ _ _               _   _ _                   _           _   
+( | ) |__   ___  ___| |_( | )  _ __  _ __ ___ (_) ___  ___| |_ 
+ V V| '_ \ / _ \/ __| __|V V  | '_ \| '__/ _ \| |/ _ \/ __| __|
+    | |_) |  __/\__ \ |_      | |_) | | | (_) | |  __/ (__| |_ 
+    |_.__/ \___||___/\__|     | .__/|_|  \___// |\___|\___|\__|
+                              |_|           |__/ 
+
+
+- Reviewed footage from previous projects from 2017-2019.
+  - 2017 Project was a robot that could move its arms and blink, plus a few more miscellaneous things.
+  - 2018 Project was a really ghetto looking gumball machine.
+  - 2019 Project was a miniature vehicle that would change directions if it detected and on-coming collision or gets in one.
+  
+- Nominated leaders, developers, photographers, and editors.
+  - Leader: Jamyis
+  - Coleader: Luke
+  - Developer #1: Nicholas
+  - Developer #2: David
+  - Photographer & Editor(?): Bennett
+  
+- Reviewed tools from Hummingbird.
+
+- Began thinking of ideas.
+  - More realistic version of the 2017 project, includes facial features and more in-depth hand motion.
+  - Walking & Talking Mexican
+  - ...?
+  
+  - End of pre-day.
