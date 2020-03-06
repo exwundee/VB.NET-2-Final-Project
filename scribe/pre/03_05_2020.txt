@@ -18,6 +18,7 @@
   - Developer #1: Nicholas
   - Developer #2: David
   - Photographer & Editor(?): Bennett
+  - Scribe: Adam
   
 - Reviewed tools from Hummingbird.
 
