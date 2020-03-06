@@ -26,4 +26,4 @@
   - Walking & Talking Mexican
   - ...?
   
-  - End of pre-day.
+- End of pre-day.
